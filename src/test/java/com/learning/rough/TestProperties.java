@@ -19,6 +19,7 @@ public class TestProperties {
 		log.debug("config file loaded");
 		//tesing git hub
 		//push-pull-clone-commit-add(stage)
+		//just another test
 		
 	}
 }
