@@ -17,7 +17,8 @@ public class TestProperties {
 		FileInputStream fis= new FileInputStream(configpath);
 		config.load(fis);
 		log.debug("config file loaded");
-		
+		//tesing git hub
+		//push-pull-clone-commit-add(stage)
 		
 	}
 }
