@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Cusomer"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="1.588">
+  <properties />
+  
+            <testcase name="addCusomerTest" time="0.0" classname="com.learning.testcases.AddCusomerTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="addCusomerTest" time="1.587" classname="com.learning.testcases.AddCusomerTest" />
+      
+</testsuite>

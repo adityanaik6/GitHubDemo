@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Basics]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.learning.listeners.CustomListener"/>
+  </listeners>
+  <test name="Bank Manager Login">
+    <classes>
+      <class name="com.learning.testcases.BankManagerLoginTest"/>
+    </classes>
+  </test> <!-- Bank Manager Login -->
+  <test name="Add Cusomer">
+    <classes>
+      <class name="com.learning.testcases.AddCusomerTest"/>
+    </classes>
+  </test> <!-- Add Cusomer -->
+  <test name="Open Account">
+    <classes>
+      <class name="com.learning.testcases.OpenAccountTest"/>
+    </classes>
+  </test> <!-- Open Account -->
+  <test name="Bank Manager Login(failed)">
+    <classes>
+      <class name="com.learning.testcases.OpenAccountTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.learning.testcases.OpenAccountTest -->
+      <class name="com.learning.testcases.BankManagerLoginTest">
+        <methods>
+          <include name="loginAsBankManager"/>
+        </methods>
+      </class> <!-- com.learning.testcases.BankManagerLoginTest -->
+    </classes>
+  </test> <!-- Bank Manager Login(failed) -->
+  <test name="Add Cusomer(failed)">
+    <classes>
+      <class name="com.learning.testcases.OpenAccountTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.learning.testcases.OpenAccountTest -->
+      <class name="com.learning.testcases.AddCusomerTest">
+        <methods>
+          <include name="addCusomerTest"/>
+        </methods>
+      </class> <!-- com.learning.testcases.AddCusomerTest -->
+    </classes>
+  </test> <!-- Add Cusomer(failed) -->
+</suite> <!-- Failed suite [Data Driven Basics] -->

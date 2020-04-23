@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Drivern Basics]">
+  <test name="BankManagerLoginTest">
+    <classes>
+      <class name="com.learning.testcases.BankManagerLoginTest"/>
+    </classes>
+  </test> <!-- BankManagerLoginTest -->
+  <test name="AddCusomerTest">
+    <classes>
+      <class name="com.learning.testcases.AddCusomerTest"/>
+    </classes>
+  </test> <!-- AddCusomerTest -->
+</suite> <!-- Failed suite [Data Drivern Basics] -->

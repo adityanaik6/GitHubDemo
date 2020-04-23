@@ -1,0 +1,157 @@
+03/03/2020 22:01:52 devpinoyLogger config file loaded
+03/03/2020 22:01:52 devpinoyLogger OR file loaded
+03/03/2020 22:01:56 devpinoyLogger Chrome driver initiated
+03/03/2020 22:02:06 devpinoyLogger Inside logintest
+03/03/2020 22:41:18 devpinoyLogger config file loaded
+03/03/2020 22:41:18 devpinoyLogger OR file loaded
+03/03/2020 22:41:21 devpinoyLogger Chrome driver initiated
+03/03/2020 22:41:27 devpinoyLogger Inside logintest
+03/03/2020 22:44:27 devpinoyLogger config file loaded
+03/03/2020 22:44:27 devpinoyLogger OR file loaded
+03/03/2020 22:44:30 devpinoyLogger Chrome driver initiated
+03/03/2020 22:44:33 devpinoyLogger Inside logintest
+03/03/2020 22:50:25 devpinoyLogger config file loaded
+03/03/2020 22:50:25 devpinoyLogger OR file loaded
+03/03/2020 22:50:29 devpinoyLogger Chrome driver initiated
+03/03/2020 22:50:32 devpinoyLogger Inside logintest
+04/03/2020 11:40:16 devpinoyLogger config file loaded
+04/03/2020 11:40:16 devpinoyLogger OR file loaded
+04/03/2020 11:40:37 devpinoyLogger Chrome driver initiated
+04/03/2020 11:40:44 devpinoyLogger Inside logintest
+04/03/2020 11:46:45 devpinoyLogger config file loaded
+04/03/2020 11:46:45 devpinoyLogger OR file loaded
+04/03/2020 11:47:08 devpinoyLogger Chrome driver initiated
+04/03/2020 11:47:15 devpinoyLogger Inside logintest
+04/03/2020 12:12:15 devpinoyLogger config file loaded
+04/03/2020 12:12:15 devpinoyLogger OR file loaded
+04/03/2020 12:12:38 devpinoyLogger Chrome driver initiated
+04/03/2020 12:12:44 devpinoyLogger Inside logintest
+04/03/2020 12:14:33 devpinoyLogger config file loaded
+04/03/2020 12:14:33 devpinoyLogger OR file loaded
+04/03/2020 12:14:57 devpinoyLogger Chrome driver initiated
+04/03/2020 12:15:04 devpinoyLogger Inside logintest
+04/03/2020 12:45:35 devpinoyLogger config file loaded
+04/03/2020 12:45:35 devpinoyLogger OR file loaded
+04/03/2020 12:46:00 devpinoyLogger Chrome driver initiated
+04/03/2020 12:46:07 devpinoyLogger Inside logintest
+04/03/2020 12:48:37 devpinoyLogger config file loaded
+04/03/2020 12:48:37 devpinoyLogger OR file loaded
+04/03/2020 12:48:59 devpinoyLogger Chrome driver initiated
+04/03/2020 12:49:06 devpinoyLogger Inside logintest
+04/03/2020 12:54:07 devpinoyLogger config file loaded
+04/03/2020 12:54:07 devpinoyLogger OR file loaded
+04/03/2020 12:54:31 devpinoyLogger Chrome driver initiated
+04/03/2020 13:01:39 devpinoyLogger config file loaded
+04/03/2020 13:01:39 devpinoyLogger OR file loaded
+04/03/2020 13:02:04 devpinoyLogger Chrome driver initiated
+04/03/2020 13:02:10 devpinoyLogger Inside logintest
+04/03/2020 13:02:11 devpinoyLogger Inside isElementPresent
+04/03/2020 13:02:11 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 13:27:55 devpinoyLogger config file loaded
+04/03/2020 13:27:55 devpinoyLogger OR file loaded
+04/03/2020 13:28:19 devpinoyLogger Chrome driver initiated
+04/03/2020 13:28:25 devpinoyLogger Inside logintest
+04/03/2020 13:28:26 devpinoyLogger Inside isElementPresent
+04/03/2020 13:28:26 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 13:31:17 devpinoyLogger config file loaded
+04/03/2020 13:31:17 devpinoyLogger OR file loaded
+04/03/2020 13:31:41 devpinoyLogger Chrome driver initiated
+04/03/2020 13:31:48 devpinoyLogger Inside logintest
+04/03/2020 13:31:48 devpinoyLogger Inside isElementPresent
+04/03/2020 13:31:48 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 13:44:49 devpinoyLogger config file loaded
+04/03/2020 13:44:49 devpinoyLogger OR file loaded
+04/03/2020 13:45:13 devpinoyLogger Chrome driver initiated
+04/03/2020 13:45:20 devpinoyLogger Inside logintest
+04/03/2020 13:45:20 devpinoyLogger Inside isElementPresent
+04/03/2020 13:45:20 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 15:56:59 devpinoyLogger config file loaded
+04/03/2020 15:56:59 devpinoyLogger OR file loaded
+04/03/2020 15:57:26 devpinoyLogger Chrome driver initiated
+04/03/2020 15:57:32 devpinoyLogger Inside logintest
+04/03/2020 15:57:32 devpinoyLogger Inside isElementPresent
+04/03/2020 15:57:32 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 16:20:41 devpinoyLogger config file loaded
+04/03/2020 16:20:41 devpinoyLogger OR file loaded
+04/03/2020 16:21:10 devpinoyLogger Chrome driver initiated
+04/03/2020 16:21:18 devpinoyLogger Inside logintest
+04/03/2020 16:21:18 devpinoyLogger Inside isElementPresent
+04/03/2020 16:21:18 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 16:23:37 devpinoyLogger config file loaded
+04/03/2020 16:23:37 devpinoyLogger OR file loaded
+04/03/2020 16:24:01 devpinoyLogger Chrome driver initiated
+04/03/2020 16:24:07 devpinoyLogger Inside logintest
+04/03/2020 16:24:07 devpinoyLogger Inside isElementPresent
+04/03/2020 16:24:07 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 16:44:39 devpinoyLogger config file loaded
+04/03/2020 16:44:39 devpinoyLogger OR file loaded
+04/03/2020 16:45:00 devpinoyLogger Chrome driver initiated
+04/03/2020 16:45:06 devpinoyLogger Inside logintest
+04/03/2020 16:45:07 devpinoyLogger Inside isElementPresent
+04/03/2020 16:45:07 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 16:50:18 devpinoyLogger config file loaded
+04/03/2020 16:50:18 devpinoyLogger OR file loaded
+04/03/2020 16:50:39 devpinoyLogger Chrome driver initiated
+04/03/2020 16:50:44 devpinoyLogger Inside logintest
+04/03/2020 16:50:44 devpinoyLogger Inside isElementPresent
+04/03/2020 16:50:44 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 16:57:19 devpinoyLogger config file loaded
+04/03/2020 16:57:19 devpinoyLogger OR file loaded
+04/03/2020 16:57:40 devpinoyLogger Chrome driver initiated
+04/03/2020 16:57:46 devpinoyLogger Inside logintest
+04/03/2020 16:57:46 devpinoyLogger Inside isElementPresent
+04/03/2020 16:57:47 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:03:26 devpinoyLogger config file loaded
+04/03/2020 17:03:26 devpinoyLogger OR file loaded
+04/03/2020 17:03:49 devpinoyLogger Chrome driver initiated
+04/03/2020 17:03:55 devpinoyLogger Inside logintest
+04/03/2020 17:03:56 devpinoyLogger Inside isElementPresent
+04/03/2020 17:03:56 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:05:54 devpinoyLogger config file loaded
+04/03/2020 17:05:54 devpinoyLogger OR file loaded
+04/03/2020 17:06:13 devpinoyLogger Chrome driver initiated
+04/03/2020 17:06:19 devpinoyLogger Inside logintest
+04/03/2020 17:06:20 devpinoyLogger Inside isElementPresent
+04/03/2020 17:06:20 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:10:03 devpinoyLogger config file loaded
+04/03/2020 17:10:03 devpinoyLogger OR file loaded
+04/03/2020 17:10:22 devpinoyLogger Chrome driver initiated
+04/03/2020 17:10:27 devpinoyLogger Inside logintest
+04/03/2020 17:10:27 devpinoyLogger Inside isElementPresent
+04/03/2020 17:10:27 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:13:02 devpinoyLogger config file loaded
+04/03/2020 17:13:02 devpinoyLogger OR file loaded
+04/03/2020 17:13:23 devpinoyLogger Chrome driver initiated
+04/03/2020 17:13:29 devpinoyLogger Inside logintest
+04/03/2020 17:13:29 devpinoyLogger Inside isElementPresent
+04/03/2020 17:13:29 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:17:47 devpinoyLogger config file loaded
+04/03/2020 17:17:47 devpinoyLogger OR file loaded
+04/03/2020 17:18:09 devpinoyLogger Chrome driver initiated
+04/03/2020 17:18:14 devpinoyLogger Inside logintest
+04/03/2020 17:18:15 devpinoyLogger Inside isElementPresent
+04/03/2020 17:18:15 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:21:25 devpinoyLogger config file loaded
+04/03/2020 17:21:25 devpinoyLogger OR file loaded
+04/03/2020 17:21:44 devpinoyLogger Chrome driver initiated
+04/03/2020 17:21:51 devpinoyLogger Inside logintest
+04/03/2020 17:21:51 devpinoyLogger Inside isElementPresent
+04/03/2020 17:21:51 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:25:22 devpinoyLogger config file loaded
+04/03/2020 17:25:22 devpinoyLogger OR file loaded
+04/03/2020 17:25:42 devpinoyLogger Chrome driver initiated
+04/03/2020 17:25:47 devpinoyLogger Inside logintest
+04/03/2020 17:25:47 devpinoyLogger Inside isElementPresent
+04/03/2020 17:25:47 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+04/03/2020 17:27:55 devpinoyLogger config file loaded
+04/03/2020 17:27:55 devpinoyLogger OR file loaded
+04/03/2020 17:28:14 devpinoyLogger Chrome driver initiated
+04/03/2020 17:28:20 devpinoyLogger Inside logintest
+04/03/2020 17:28:20 devpinoyLogger Inside isElementPresent
+04/03/2020 17:28:20 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
+05/03/2020 11:25:38 devpinoyLogger config file loaded
+05/03/2020 11:25:38 devpinoyLogger OR file loaded
+05/03/2020 11:25:59 devpinoyLogger Chrome driver initiated
+05/03/2020 11:26:05 devpinoyLogger Inside logintest
+05/03/2020 11:26:05 devpinoyLogger Inside isElementPresent
+05/03/2020 11:26:05 devpinoyLogger Element PresentBy.xpath: //button[contains(text(),'Add Customer')]
